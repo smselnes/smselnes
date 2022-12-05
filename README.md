@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello! I'm Ståle. 👋
+
+Currently wrapping up my 2nd (and last) year of Front-End development at Noroff. :computer:
+
+### Skills
+
+### Tools
+
+### Projects
+
 
 <!--
 **smselnes/smselnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
