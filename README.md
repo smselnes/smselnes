@@ -2,6 +2,7 @@
 
 Currently wrapping up my 2nd (and last) year of Front-End development at Noroff. :computer:
 
+
 ### Skills/languages
 - HTML
 - CSS
@@ -20,8 +21,12 @@ Currently wrapping up my 2nd (and last) year of Front-End development at Noroff.
 
 ### Projects
 #### 
-~~[Shoemania](https://smselnes-shoemania.netlify.app/)~~ (in maintenance)
-~~[Medi@holic](https://smselnes-mediaholic.netlify.app/) ~~
+- ~~[Shoemania](https://smselnes-shoemania.netlify.app/)~~ (in maintenance)
+- [Medi@holic](https://smselnes-mediaholic.netlify.app/)
+- [Travel Blog](https://smselnes-travelblog.netlify.app/blogs.html)
+- [Guess the colour](https://smselnes-colorgame.netlify.app/)
+- [Science Museum](https://selnes-csmuseum.netlify.app/)
+- ~~[Rainydays](https://rainydays-version2.netlify.app/)~~ (in maintenance)
 
 
 <!--
