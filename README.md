@@ -2,6 +2,10 @@
 
 Currently wrapping up my 2nd (and last) year of Front-End development at Noroff. :computer:
 
+- 🔭 I’m currently working on improving my **JavaScript** skills.
+- 🌱 I’m currently learning **React**
+- 👯 I’m looking to collaborate on anything to improve my skills and expand my network.
+
 
 ### Skills/languages
 - HTML
