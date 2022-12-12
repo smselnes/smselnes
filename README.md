@@ -2,11 +2,26 @@
 
 Currently wrapping up my 2nd (and last) year of Front-End development at Noroff. :computer:
 
-### Skills
+### Skills/languages
+- HTML
+- CSS
+- SCSS
+- JavaScript (practicing)
+- React (practicing)
+- Bootstrap 
 
 ### Tools
+- Adobe XD
+- Trello
+- GitHub
+- VS Code
+- Wordpress REST API
+- Strapi (practicing)
 
 ### Projects
+#### 
+~~[Shoemania](https://smselnes-shoemania.netlify.app/)~~ (in maintenance)
+~~[Medi@holic](https://smselnes-mediaholic.netlify.app/) ~~
 
 
 <!--
