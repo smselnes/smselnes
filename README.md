@@ -1,9 +1,9 @@
 ### Hello! I'm Ståle. 👋
 
-Currently wrapping up my 2nd (and last) year of Front-End development at Noroff. :computer:
+Just earned a Higher Professional Degree in Front-End Development from Noroff School of Technology and Digital Media.  :computer:
 
 - 🔭 I’m currently working on improving my **JavaScript** skills.
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** while I'm dipping my toes into **TypeScript** and **Angular**.
 - 👯 I’m looking to collaborate on anything to improve my skills and expand my network.
 
 
